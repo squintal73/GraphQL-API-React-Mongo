@@ -1,8 +1,8 @@
 ==============================
-Atlas App Services Web Starter
+App Services Web Starter
 ==============================
 
-This project contains the web client for the Atlas App Services template
+This project contains the web client for the App Services
 application.
 
 The client allows you to:
