@@ -1,0 +1,8 @@
+{
+    "appId": "application-0-mzjho",
+    "appUrl": "https://realm.mongodb.com/groups/647d21e2e059a96be41a3034/apps/647d22468805b043e312d435",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataSourceName": "mongodb-atlas"
+}
